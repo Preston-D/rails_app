@@ -7,6 +7,9 @@ import Rails from "@rails/ujs"
 import Turbolinks from "turbolinks"
 import * as ActiveStorage from "@rails/activestorage"
 import "channels"
+//
+import UIkit from "uikit";
+import UIkitIcons from "uikit/dist/js/uikit-icons";
 
 Rails.start()
 Turbolinks.start()
